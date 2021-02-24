@@ -76,23 +76,5 @@ a:hover {
     -ms-transform: translate(-50%, -50%);
 }
  @media only screen and (max-width: 481px){
-      
-.image-hero-area {
-    background-attachment: scroll;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    margin: 0;
-    background: url(https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg) center center no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-   }
-
- } 
+} 
 
