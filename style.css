@@ -75,6 +75,12 @@ a:hover {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
- @media only screen and (max-width: 481px){
-} 
-
+.image-hero-area {
+   background-image: url(../images/bg_teampage.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 100%; 
+   position: fixed;
+   overflow-y: scroll;
+}
