@@ -90,6 +90,4 @@ a:active {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
-@media only screen and (min-width : 320px) and (max-width : 480px) {
-	background: url(https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg); no-repeat center center fixed;
-}
+
