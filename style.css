@@ -11,9 +11,12 @@ h3 {
     color: white;
 }
 body {
-    background-image: url(https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg) no-repeat 50% 50px fixed;
+    background-image: url(https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg);
     background-position:  center center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 
 }
 
