@@ -1,0 +1,74 @@
+h1 {
+    color:white
+}
+
+body {
+    background-image: url(https://i1.wp.com/www.csscodelab.com/wp-content/uploads/2019/11/animated-html-css-ripples-background-example.png?fit=966%2C634&ssl=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position:  center center;
+    background-size: cover;
+}
+
+a:link {
+    color:purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+p {
+    color:wheat;
+    font-family: impact;
+    font-size:x-large;
+    font-style:unset;
+}
+
+.it {
+    border-radius: 8px;
+    width: 500px;
+    height: auto;
+    padding: 5px;
+    border: 1px solid red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgb(255, 0, 55);
+}
+
+
+.poza {
+    float:right;
+    width: 550px;
+    height: 450px;
+    border: 5px solid orange
+}
+
+.multumire {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: tomato;
+}
+
+.random {
+    float:right;
+    width: 550px;
+    height: 450px;
+    border: 5px solid orange;
+    float: left;
+}
+
+@media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+
